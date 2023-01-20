@@ -70,7 +70,6 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-/data/
 *__pycache__*
 
 # Extra requirements

@@ -1,0 +1,5 @@
+outs:
+- md5: 1854cb76ddb3d90dc8b30d061e2b49dc.dir
+  size: 6081086
+  nfiles: 1474
+  path: train
