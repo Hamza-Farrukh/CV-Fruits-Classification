@@ -5,7 +5,7 @@
 FruitsClassification
 ************************************************************************
 
-Deep Learning model that classifies fruit images 
+Deep Learning model that classifies fruit images
 
 **Author**: Hamza (`hamzafarrukh73@gmail.com <mailto:hamzafarrukh73@gmail.com>`_)
 
@@ -14,12 +14,10 @@ got the documentation shown above.
 
 
 
-
-
 .. ----------------------------------------------------------------------------
 
 Project based on the `modified <https://github.com/vcalderon2009/cookiecutter-data-science-vc>`_  version of
-`cookiecutter data science project template <https://drivendata.github.io/cookiecutter-data-science/>`_ 
+`cookiecutter data science project template <https://drivendata.github.io/cookiecutter-data-science/>`_
 
 
 .. |Issues| image:: https://img.shields.io/github/issues/Hamza-Farrukh/CV-Fruits-Classification.svg
